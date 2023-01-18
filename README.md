@@ -1,2 +1,2 @@
 # BMUTED.Package
-A student who want to be a solo Developer
+First Thing which I made in Github
